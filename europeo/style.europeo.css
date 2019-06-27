@@ -1,0 +1,16 @@
+body {
+    background-image: url("fondo.jpg");
+
+  }
+h1{
+  color: black;
+  background-color: white;
+}
+  h2 {
+    color: rgb(0, 0, 0);
+    margin-left: 5%;
+    background-color: rgb(240, 240, 240)
+  }
+  h3{
+    color: rgb(0, 0, 0);
+    }
